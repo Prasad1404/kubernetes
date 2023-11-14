@@ -512,3 +512,20 @@ ls
 rm mynginx
 rm -d mynginx
 git add
+git add .
+git commit -m "15 Nov 2023"
+git push
+git push --set-upstream origin main
+git pull
+git merge
+git branch --set-upstream-to=origin/<branch> main
+git merge
+git pull
+git-pull(1)
+git config --global
+git push
+git push --set-upstream origin main
+git push -f
+git push --set-upstream origin main
+clear
+git add 
