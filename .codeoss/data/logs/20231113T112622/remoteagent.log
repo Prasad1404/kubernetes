@@ -1,0 +1,49 @@
+2023-11-13 11:26:23.012 [info] 
+
+
+
+
+2023-11-13 11:26:23.028 [info] Extension host agent started.
+2023-11-13 11:26:24.186 [info] [127.0.0.1][c1567518][ManagementConnection] New connection established.
+2023-11-13 11:26:24.432 [info] [127.0.0.1][dec82a61][ExtensionHostConnection] New connection established.
+2023-11-13 11:26:25.486 [info] [127.0.0.1][dec82a61][ExtensionHostConnection] <1102> Launched Extension Host Process.
+2023-11-13 11:26:30.471 [error] [127.0.0.1][436c33ce][ManagementConnection] Unknown reconnection token (never seen).
+2023-11-13 11:26:31.910 [info] [127.0.0.1][fb8de062][ManagementConnection] New connection established.
+2023-11-13 11:26:32.053 [info] [127.0.0.1][49a15664][ExtensionHostConnection] New connection established.
+2023-11-13 11:26:32.061 [info] [127.0.0.1][49a15664][ExtensionHostConnection] <1182> Launched Extension Host Process.
+2023-11-13 11:26:33.016 [warning] RequestStore#acceptReply was called without receiving a matching request 13
+2023-11-13 11:26:33.016 [warning] RequestStore#acceptReply was called without receiving a matching request 14
+2023-11-13 11:26:33.016 [warning] RequestStore#acceptReply was called without receiving a matching request 15
+2023-11-13 11:26:33.016 [warning] RequestStore#acceptReply was called without receiving a matching request 16
+2023-11-13 11:26:33.016 [warning] RequestStore#acceptReply was called without receiving a matching request 17
+2023-11-13 11:26:33.016 [warning] RequestStore#acceptReply was called without receiving a matching request 18
+2023-11-13 11:26:33.016 [warning] RequestStore#acceptReply was called without receiving a matching request 19
+2023-11-13 11:26:33.017 [warning] RequestStore#acceptReply was called without receiving a matching request 20
+2023-11-13 11:26:33.017 [warning] RequestStore#acceptReply was called without receiving a matching request 21
+2023-11-13 11:26:33.017 [warning] RequestStore#acceptReply was called without receiving a matching request 22
+2023-11-13 11:26:33.017 [warning] RequestStore#acceptReply was called without receiving a matching request 23
+2023-11-13 11:26:33.017 [warning] RequestStore#acceptReply was called without receiving a matching request 24
+2023-11-13 12:32:44.836 [info] [127.0.0.1][fb8de062][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-13 12:32:44.866 [info] [127.0.0.1][49a15664][ExtensionHostConnection] <1182> Extension Host Process exited with code: 0, signal: null.
+2023-11-13 12:47:08.146 [info] [127.0.0.1][c1567518][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-13 12:47:08.178 [info] [127.0.0.1][dec82a61][ExtensionHostConnection] <1102> Extension Host Process exited with code: 0, signal: null.
+2023-11-13 12:47:33.344 [info] [127.0.0.1][85d88995][ManagementConnection] New connection established.
+2023-11-13 12:47:33.545 [info] [127.0.0.1][32ba1e59][ExtensionHostConnection] New connection established.
+2023-11-13 12:47:33.647 [info] [127.0.0.1][32ba1e59][ExtensionHostConnection] <1873> Launched Extension Host Process.
+2023-11-13 12:50:39.771 [info] [127.0.0.1][85d88995][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-13 12:50:39.803 [info] [127.0.0.1][32ba1e59][ExtensionHostConnection] <1873> Extension Host Process exited with code: 0, signal: null.
+2023-11-13 13:19:58.457 [info] [127.0.0.1][2b4ba102][ManagementConnection] New connection established.
+2023-11-13 13:19:58.678 [info] [127.0.0.1][beae755c][ExtensionHostConnection] New connection established.
+2023-11-13 13:19:58.692 [info] [127.0.0.1][beae755c][ExtensionHostConnection] <2023> Launched Extension Host Process.
+2023-11-13 13:20:03.707 [info] [127.0.0.1][2b4ba102][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-13 13:20:03.748 [info] [127.0.0.1][beae755c][ExtensionHostConnection] <2023> Extension Host Process exited with code: 0, signal: null.
+2023-11-13 13:20:21.061 [info] [127.0.0.1][af8bfbb7][ManagementConnection] New connection established.
+2023-11-13 13:20:21.224 [info] [127.0.0.1][eeae687c][ExtensionHostConnection] New connection established.
+2023-11-13 13:20:21.238 [info] [127.0.0.1][eeae687c][ExtensionHostConnection] <2109> Launched Extension Host Process.
+2023-11-13 13:20:44.491 [info] [127.0.0.1][af8bfbb7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-13 13:20:44.524 [info] [127.0.0.1][eeae687c][ExtensionHostConnection] <2109> Extension Host Process exited with code: 0, signal: null.
+2023-11-13 13:20:59.752 [info] [127.0.0.1][770c244e][ManagementConnection] New connection established.
+2023-11-13 13:20:59.942 [info] [127.0.0.1][50480faa][ExtensionHostConnection] New connection established.
+2023-11-13 13:20:59.953 [info] [127.0.0.1][50480faa][ExtensionHostConnection] <2554> Launched Extension Host Process.
+2023-11-13 14:15:45.478 [info] [127.0.0.1][50480faa][ExtensionHostConnection] The client has reconnected.
+2023-11-13 14:15:45.726 [info] [127.0.0.1][770c244e][ManagementConnection] The client has reconnected.

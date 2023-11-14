@@ -1,266 +1,3 @@
-kubectl get replicaset
-kubectl delete -f replicaset.yml
-kubectl get replicaset
-vi deployment1.yml
-kubectl apply -f deployment1.yml
-kubectl get deployment
-kubectl get all
-gcloud compute firewall-rules create rule2 --allow tcp:8888
-kubectl get pods
-kubectl get nodes -o wide
-kubectl get pods -o wide
-vi deployment1.yml
-kubectl scale --replicas=1 -f deployment1.yml
-kubectl get pods
-kubectl get pods -o wide
-ls
-kubectl get all
-gcloud container clusters get-credentials cluster-1 --zone us-central1-c --project galvanic-crow-404311
-gcloud config set project galvanic-crow-404311
-ls
-cd mykubernetes
-ls
-vi deployment2.yml
-kubectl apply -f deployement2.yml
-kubectl apply -f deployment2.yml
-kubectl get deployment
-kubect get all
-kubectl get all
-kubectl delete -f deployment1.yml
-kubectl delete -f deployment2.yml
-vi daemonset.yml
-kubectl apply -f daemonset.yml
-vi daemonset.yml
-kubectl apply -f daemonset.yml
-vi daemonset.yml
-kubectl apply -f daemonset.yml
-vi daemonset.yml
-kubectl apply -f daemonset.yml
-vi daemonset.yml
-kubectl apply -f daemonset.yml
-ls
-kubectl get all
-kubectl get nods -o wide
-kubectl delete -f daemon.yml
-kubectl delete -f daemonset.yml
-vi secret.yml
-kubectl apply -f secret.yml
-vi secret.yml
-kubectl apply -f secret.yml
-vi secret.yml
-vi pod-defination6.yml
-kubectl apply -f pod-defination6.yml
-kubectl get pods
-kubectl exec -it mysql-pod --bash
-kubectl exec -it mysql-pod -- bash
-chmod 600 secret.yml
-ls -l
-vi secret2.yml
-kubectl apply -f secret2.yml
-vi secret2.yml
-kubectl apply -f secret2.yml
-vi secret.yml
-vi secret2.yml
-kubectl apply -f secret2.yml
-vi deloyment3.yml
-exit
-vi deployment3.yml
-ls
-cp deployement3.yml mykubernetes/deployment3.yml
-cp deployement3.yml mykubernetes
-ls 
-cp deployment3.yml /mykubernetes/deployment3.yml
-gcloud container clusters get-credentials cluster-1 --zone us-central1-c --project galvanic-crow-404311
-ls
-cp deployment3.yml ./mykubernetes/deployment3.yml
-ls 
-cd mykubernetes
-ls
-cd ..
-ls
-cd mykubernetes
-ls
-vi secret2.yml
-vi deployment3.yml
-kubectl apply -f deployment3.yml
-kubectl get all
-vi secret2.ym
-vi secret2.yml
-kubectl apply -f secret2.yml
-kubectl get all
-ls -l
-chmod 600 secret2.yml
-ls
-ls -l
-kubectl delete -f secret2.yml
-kubectl get all
-kubectl delete -f deployment3.yml
-kubectl get all
-exit
-ls 
-cd mykubernets
-ls
-cd mykubernetes
-ls
-vi pod-defination7.yml
-kubectl apply -f pod-defination1.yml
-gcloud container clusters get-credentials cluster-1 --zone us-central1-c --project galvanic-crow-404311
-ls
-cd mykubernetes
-ls
-gcloud config set project galvanic-crow-404311
-ls
-ls -l
-kubectl apply -f pod-defination7.yml
-cat pod-defination7.yml
-vi service1.yml
-kubectl appy -f service1.yml
-kubectl apply -f service1.yml
-vi service1.yml
-kubectl apply -f service1.ym
-kubectl apply -f service1.yml
-kubectl get all
-kubectl get pods -o wide
-kubectl get services
-kubectl get nodes -o wide
-kubectl get svc
-vi deploymen
-vi deloyment4.yml
-kubectl apply - f deployment4.yml
-kubectl apply -f deployment4.yml
-cp deloyment4.yml deployment4.yml
-ls
-cat deployment4.yml
-kubectl apply -f deployment4.yml
-vi deployment4.yml
-kubectl apply -f deployment4.yml
-vi deployment4.yml
-kubectl apply -f deployment4.yml
-vi deployment4.yml
-ls
-vi deployment3.yml
-vi deployment4.yml
-kubectl apply -f deployment4.yml
-vi deployment4.yml
-touch deployment5.yml
-cp deployment2.yml deployment5.yml
-cat deployment5.yml
-vi deployment5.yml
-kubectl apply -f deployment5.yml
-vi deployment5.yml
-kubectl apply -f deployment5.yml
-vi deployment5.yml
-vi sevice2.yml
-kubectl apply -f service2.yml
-cp sevice2.yml service2.yml
-kubectl apply -f service2.yml
-kubectl get pods -o wide
-kubectl get nodes -o wide
-kubectl get all
-kubectl delete -f pod-defination7.yml
-kubectl get all
-kubectl get pods -o wide
-kubectl get nodes -o wide
-gcloud compute firewall-rules create rule1 --allow tcp:30008
-gcloud compute firewall-rules create rule2 --allow tcp:30008
-gcloud compute firewall-rules create rule3 --allow tcp:30008
-vi pod-defination8.yml
-kubectl apply -f pod-defination8.yml
-vi pod-defination8.yml
-kubectl apply -f pod-defination8.yml
-vi pod-defination8.yml
-kubectl apply -f pod-defination8.yml
-vi service3.yml
-kubectl apply -f service3.yml
-kubectl get pods -o wide
-kubectl delete -f deployment5.yml
-kubectl get pods -o wide
-kubectl get nodes - o wide
-kubectl get nodes -o wide
-gcloud compute firewall-rules create rule4 --allow tcp:30009
-kubectl delete -f service2.yml
-kubectl delete -f service3.yml
-kubectl delete -f pod-defination8.yml
-ls
-cd mykubernetes
-ls
-kubectl apply pod-defination8.yml
-kubectl apply -f pod-defination8.yml
-gcloud container clusters get-credentials cluster-1 --zone us-central1-c --project galvanic-crow-404311
-kubectl apply -f pod-defination8.yml
-kubectl apply - service3.yml
-kubectl apply -f service3.yml
-kubectl get all
-cat service3.yml
-kubectl get all
-gcloud config set project galvanic-crow-404311
-kubectl get all
-kubectl delete -f pod-defination8.yml
-ls
-cd mykubernetes
-kubectl delete -f pod-defination8.yml
-kubectl delete -f service3.yml
-kubectl get all
-kubectl get services
-kubectl delete -f service2.yml
-ls
-kubectl delete -f sevice2.yml
-kubectl delete -f sevice1.yml
-kubectl delete -f service1.yml
-kubectl delete -f pod-defination2.yml
-kubectl delete -f pod-defination6.yml
-ls
-kubectl get all
-kubectl get pods 
-kubectl get deployments
-kubectl get services
-kubectl get secret
-vi pod-defination2.yml
-ls
-vi pod-defination3.yml
-kubectl apply -f pod-defination2.yml
-kubectl apply -f pod-defination3.yml
-cat pod-defination3.yml
-kubectl get all
-kubectl get pods
-vi service3.yml
-vi service.yml
-vi service1.yml
-vi  seervice3.yml
-ls
-cat service3.yml
-vi service4.yml
-kubectl apply -f service4.yml
-kubectl get all
-kubectl get pods -o wide
-kubectl get nodes -o wide
-kubectl get all
-kubectl get svs
-kubectl get srv
-kubectl get services
-kubectl descibe svc
-kubectl desc svc
-kubectl describe svc
-kubectl delete -f service3.yml
-ls
-kubectl delete -f service4.yml
-kubectl delete -f pod-defination3.yml
-clear
-curl -L https://github.com/kubernetes/kompose/releases/download/v1.18.0/kompose-linux-amd64 -o kompose
-chmod +x kompose
-sudo mv ./kompose /usr/local/bin/kompose
-kompose version
-kompose versio
-kompose version
-ls -l
-kompose -version
-kompose version
-vi docker-compose.yml
-ls
-kompose convert
-mkdir kompose
-cp docker-compose.yml ./kompose/docker-compose.yml
-cd kompose
 ls
 cat docker-compose.yml
 kompose convert
@@ -509,3 +246,269 @@ git push -u origin main
 ls
 git add mykubernetes
 git push -u origin main
+git add .
+git commit
+git commit -m "kubenetes files"
+ls
+cd mykuberenetes
+cd mykubernetes
+git add .
+git commit -m "kuberneter file uplodaed"
+git config --global user.email prasadsahoo140484@gmail.com
+git commit -m "kuberneter file uplodaed"
+ls
+git config --global user.email prasadkumar.sahoo@gmail.com
+git commit -m "kuberneter file uplodaed" 
+omit --global
+git config --global user.email prasadkumar.sahoo@gmail.com
+git config --global user.name "prasad"
+git add .
+git commit -m "kuberneter file uplodaed" 
+git push -u origin main
+git remote add origin https://github.com/Prasad1404/kubernetes.git
+git push -u origin main
+ls
+git commit .
+git push -u origin main
+https://github.com/Prasad1404/kubernetes.git
+echo "# kubernetes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Prasad1404/kubernetes.git
+git push -u origin main
+echo "# kubernetes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Prasad1404/kubernetes.git
+git push -u origin main
+gcloud container clusters get-credentials cluster-1 --zone us-central1-c --project galvanic-crow-404311
+gcloud config set project galvanic-crow-404311
+echo "# kubernetes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Prasad1404/kubernetes.git
+git push -u origin main
+git remote add origin https://github.com/Prasad1404/kubernetes.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/Prasad1404/kubernetes.git
+git branch -M main
+git push -u origin main
+echo "# kubernetes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Prasad1404/kubernetes.git
+git push -u origin main
+git config --global user.name Prasad1404
+git config --global user.email prasadkumar.sahoo@gmail.com
+git config -l
+echo "# kubernetes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Prasad1404/kubernetes.git
+git push -u origin main
+echo "# mykubernetes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/prasadsahoo140484/mykubernetes.git
+git push -u origin main
+exit
+echo "# mykubernetes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/prasadsahoo140484/mykubernetes.git
+git push -u origin main
+clear
+exit
+echo "# mykubernetes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/prasadsahoo140484/mykubernetes.git
+git push -u origin main
+git config --global credential.helper store
+git remote add origin https://github.com/prasadsahoo140484/mykubernetes.git
+git branch -M main
+git push -u origin main
+echo "# kubernetes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Prasad1404/kubernetes.git
+git push -u origin main
+echo "# kubernetes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
+git push -u origin main
+echo "# kubernetes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
+git push -u origin main
+clear
+echo "# kubernetes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Prasad1404/kubernetes.git
+git push -u origin main
+echo "# kubernetes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
+git push -u origin main
+ls
+cd mykubernetes
+echo "# kubernetes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Prasad1404/kubernetes.git
+git push -u origin main
+git remote add origin https://github.com/Prasad1404/kubernetes.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/Prasad1404/kubernetes.git
+git push
+git push -u origin main
+clear
+echo "# kubernetes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Prasad1404/kubernetes.git
+git push -u origin main
+git add
+git add .
+git commit -m "all files"
+git push
+kubectl get nodes
+****************************************************
+Storing all files in GitHub repository. Start Point*
+****************************************************
+gcloud container clusters get-credentials cluster-1 --zone us-central1-c --project galvanic-crow-404311
+kubectl get nodes
+kubectl taint nodes gke-cluster-1-default-pool-d92db249-7834 slave1=prasad1:NoSchedule
+cd mykubernetes
+cat pod-defination1.yml
+ls
+vi pod-defination1.yml
+kubectl appy -f pod-definatin1.yml
+kubectl apply -f pod-defination.yml
+kubectl apply -f pod-defination1.yml
+vi pod-defination.yml
+vi pod-defination1.yml
+kubectl apply -f pod-defination1.yml
+kubectl get pods
+kubectl get pods -o wide
+kubectl get nodes
+kubectl delete -f pod-defination1.yml
+vi deployment1.yml
+kubectl apply -f deployment1.yml
+kubectl get pods -o wide
+kubectl get nodes
+kubectl get nodes -o wide
+kubectl delete -f deployment1.yml
+kubectl taint nodes gke-cluster-1-default-pool-4fd10705-bm1f  slave1=prasad1:NoSchedule-
+kubectl taint nodes gke-cluster-1-default-pool-d92db249-7834 slave1=prasad1:NoSchedule- 
+kubectl apply -f deployment1.yml
+$kubectl get pods -o wide
+kubectl get pods -o wide
+kubectl delete -f deplyment1.yml
+kubectl delete -f deployment1.yml
+vi toleration1.yml
+kubectl taint nodes gke-cluster-1-default-pool-d92db249-7834 slave1=prasad1:NoSchedule
+kubectl get nodes -o wide
+kubectl get node
+kubectl taint nodes gke-cluster-1-default-pool-d92db249-tx7 slave2=prasad1:NoSchedule
+kubectl taint nodes gke-cluster-1-default-pool-d92db249-tx7v slave2=prasad1:NoSchedule
+kubectl taint nodes gke-cluster-1-default-pool-d92db249-w3gr slave3=prasad1:NoSchedule
+kubectl get pods
+kubectl apply -f pod-defination1.yml
+kubectl get pods -o wide
+kubectl get pods
+kubectl get pods -o wide
+kubectl delete -f pod-defination1.yml
+kubectl apply -f pod-defination1.yml
+kubectl get pods -o wide
+kbectl delete -f pod-defination1.yml
+kubectl delete -f pod-defination1.yml
+kubectl apply -f deployment1.yml
+kubectl get pods -o wide
+kubectl delete -f deployment1.yml
+kubectl apply -f toleration1.yml
+vi toleration1.yml
+kubectl apply -f toleration1.yml
+kubectl get pods -o wide
+kubectl get pods
+kubectl delete -f toleration1.yml
+vi toleration2.yml
+kubectl apply -f toleration2.yml
+vi toleration2.yml
+kubectl apply -f toleration2.yml
+vi toleration2.yml
+kubectl apply -f toleration2.yml
+vi toleration2.yml
+kubectl apply -f toleration2.yml
+kubectl get pods
+kubectl get all
+kubectl get node
+kubectl get pods -o wide
+helm
+helm version
+curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
+gcloud config set project galvanic-crow-404311
+gcloud container clusters get-credentials cluster-1 --zone us-central1-c --project galvanic-crow-404311
+curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
+chmod 700 get_helm.sh
+./get_helm.sh
+helm version
+mkdir helm
+cd helm
+helm create mynginx
+ls
+cd mynginx
+ls
+vi values.yml
+vi values.yaml
+helm install newnginx  mynginx
+gcloud container clusters get-credentials cluster-1 --zone us-central1-c --project galvanic-crow-404311
+kubectl get nodes
+kubectl get nodes -o wide
+helm version
+helm create mynginx
+ls
+cd helm
+ls
+helm create mynginx
+cd ..
+ls
+rm mynginx
+rm -d mynginx
+git add
