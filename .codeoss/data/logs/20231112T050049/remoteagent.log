@@ -1,9 +1,0 @@
-2023-11-12 05:00:49.682 [info] 
-
-
-
-
-2023-11-12 05:00:49.698 [info] Extension host agent started.
-2023-11-12 05:00:50.868 [info] [127.0.0.1][4618338d][ManagementConnection] New connection established.
-2023-11-12 05:00:50.980 [info] [127.0.0.1][5759d6f9][ExtensionHostConnection] New connection established.
-2023-11-12 05:00:52.098 [info] [127.0.0.1][5759d6f9][ExtensionHostConnection] <1108> Launched Extension Host Process.

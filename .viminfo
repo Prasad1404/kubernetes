@@ -12,15 +12,15 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1699927719,,"wq"
+|2,0,1700270561,,"wq"
 :q
-|2,0,1699927678,,"q"
+|2,0,1700270512,,"q"
+:q!
+|2,0,1700181655,,"q!"
 :set number
 |2,0,1699755334,,"set number"
 :su number
 |2,0,1699755320,,"su number"
-:q!
-|2,0,1699661518,,"q!"
 :set nu
 |2,0,1699463342,,"set nu"
 :set su 
@@ -76,237 +76,338 @@
 |3,1,36,0,1,0,1699464924,"deployment"
 
 # File marks:
-'0  43  15  ~/helm/mynginx/values.yaml
-|4,48,43,15,1699927719,"~/helm/mynginx/values.yaml"
-'1  1  0  ~/helm/mynginx/values.yml
-|4,49,1,0,1699927678,"~/helm/mynginx/values.yml"
-'2  25  36  ~/mykubernetes/toleration2.yml
-|4,50,25,36,1699920956,"~/mykubernetes/toleration2.yml"
-'3  7  6  ~/mykubernetes/toleration2.yml
-|4,51,7,6,1699920909,"~/mykubernetes/toleration2.yml"
-'4  7  6  ~/mykubernetes/toleration2.yml
-|4,52,7,6,1699920909,"~/mykubernetes/toleration2.yml"
-'5  26  9  ~/mykubernetes/toleration2.yml
-|4,53,26,9,1699920859,"~/mykubernetes/toleration2.yml"
-'6  26  9  ~/mykubernetes/toleration2.yml
-|4,54,26,9,1699920859,"~/mykubernetes/toleration2.yml"
-'7  26  9  ~/mykubernetes/toleration2.yml
-|4,55,26,9,1699920859,"~/mykubernetes/toleration2.yml"
-'8  26  9  ~/mykubernetes/toleration2.yml
-|4,56,26,9,1699920859,"~/mykubernetes/toleration2.yml"
-'9  26  9  ~/mykubernetes/toleration2.yml
-|4,57,26,9,1699920792,"~/mykubernetes/toleration2.yml"
+'0  19  2  ~/mykubernetes/volumes1.yml
+|4,48,19,2,1700270561,"~/mykubernetes/volumes1.yml"
+'1  1  0  ~/mykubernetes/voumes1.yml
+|4,49,1,0,1700270512,"~/mykubernetes/voumes1.yml"
+'2  1  0  ~/mykubernetes/volume1.yml
+|4,50,1,0,1700270497,"~/mykubernetes/volume1.yml"
+'3  1  0  ~/mykubernetes/voulme1.ml
+|4,51,1,0,1700270487,"~/mykubernetes/voulme1.ml"
+'4  19  2  ~/mykubernetes/volumes1.yml
+|4,52,19,2,1700184658,"~/mykubernetes/volumes1.yml"
+'5  17  20  ~/mykubernetes/volumes1.yml
+|4,53,17,20,1700184510,"~/mykubernetes/volumes1.yml"
+'6  17  20  ~/mykubernetes/volumes1.yml
+|4,54,17,20,1700184510,"~/mykubernetes/volumes1.yml"
+'7  17  20  ~/mykubernetes/volumes1.yml
+|4,55,17,20,1700184510,"~/mykubernetes/volumes1.yml"
+'8  17  20  ~/mykubernetes/volumes1.yml
+|4,56,17,20,1700184510,"~/mykubernetes/volumes1.yml"
+'9  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,57,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
 
 # Jumplist (newest first):
--'  43  15  ~/helm/mynginx/values.yaml
-|4,39,43,15,1699927719,"~/helm/mynginx/values.yaml"
--'  1  0  ~/helm/mynginx/values.yaml
-|4,39,1,0,1699927688,"~/helm/mynginx/values.yaml"
--'  1  0  ~/helm/mynginx/values.yml
-|4,39,1,0,1699927678,"~/helm/mynginx/values.yml"
--'  1  0  ~/helm/mynginx/values.yml
-|4,39,1,0,1699927678,"~/helm/mynginx/values.yml"
--'  25  36  ~/mykubernetes/toleration2.yml
-|4,39,25,36,1699920956,"~/mykubernetes/toleration2.yml"
--'  25  36  ~/mykubernetes/toleration2.yml
-|4,39,25,36,1699920956,"~/mykubernetes/toleration2.yml"
--'  25  36  ~/mykubernetes/toleration2.yml
-|4,39,25,36,1699920956,"~/mykubernetes/toleration2.yml"
--'  25  36  ~/mykubernetes/toleration2.yml
-|4,39,25,36,1699920956,"~/mykubernetes/toleration2.yml"
--'  7  6  ~/mykubernetes/toleration2.yml
-|4,39,7,6,1699920931,"~/mykubernetes/toleration2.yml"
--'  7  6  ~/mykubernetes/toleration2.yml
-|4,39,7,6,1699920931,"~/mykubernetes/toleration2.yml"
--'  7  6  ~/mykubernetes/toleration2.yml
-|4,39,7,6,1699920931,"~/mykubernetes/toleration2.yml"
--'  7  6  ~/mykubernetes/toleration2.yml
-|4,39,7,6,1699920931,"~/mykubernetes/toleration2.yml"
--'  7  6  ~/mykubernetes/toleration2.yml
-|4,39,7,6,1699920909,"~/mykubernetes/toleration2.yml"
--'  7  6  ~/mykubernetes/toleration2.yml
-|4,39,7,6,1699920909,"~/mykubernetes/toleration2.yml"
--'  7  6  ~/mykubernetes/toleration2.yml
-|4,39,7,6,1699920909,"~/mykubernetes/toleration2.yml"
--'  7  6  ~/mykubernetes/toleration2.yml
-|4,39,7,6,1699920909,"~/mykubernetes/toleration2.yml"
--'  26  9  ~/mykubernetes/toleration2.yml
-|4,39,26,9,1699920886,"~/mykubernetes/toleration2.yml"
--'  26  9  ~/mykubernetes/toleration2.yml
-|4,39,26,9,1699920886,"~/mykubernetes/toleration2.yml"
--'  26  9  ~/mykubernetes/toleration2.yml
-|4,39,26,9,1699920886,"~/mykubernetes/toleration2.yml"
--'  26  9  ~/mykubernetes/toleration2.yml
-|4,39,26,9,1699920886,"~/mykubernetes/toleration2.yml"
--'  26  9  ~/mykubernetes/toleration2.yml
-|4,39,26,9,1699920886,"~/mykubernetes/toleration2.yml"
--'  26  9  ~/mykubernetes/toleration2.yml
-|4,39,26,9,1699920886,"~/mykubernetes/toleration2.yml"
--'  26  9  ~/mykubernetes/toleration2.yml
-|4,39,26,9,1699920886,"~/mykubernetes/toleration2.yml"
--'  26  9  ~/mykubernetes/toleration2.yml
-|4,39,26,9,1699920886,"~/mykubernetes/toleration2.yml"
--'  26  9  ~/mykubernetes/toleration2.yml
-|4,39,26,9,1699920859,"~/mykubernetes/toleration2.yml"
--'  26  9  ~/mykubernetes/toleration2.yml
-|4,39,26,9,1699920859,"~/mykubernetes/toleration2.yml"
--'  26  9  ~/mykubernetes/toleration2.yml
-|4,39,26,9,1699920859,"~/mykubernetes/toleration2.yml"
--'  26  9  ~/mykubernetes/toleration2.yml
-|4,39,26,9,1699920859,"~/mykubernetes/toleration2.yml"
--'  26  9  ~/mykubernetes/toleration2.yml
-|4,39,26,9,1699920792,"~/mykubernetes/toleration2.yml"
--'  26  9  ~/mykubernetes/toleration2.yml
-|4,39,26,9,1699920792,"~/mykubernetes/toleration2.yml"
--'  26  9  ~/mykubernetes/toleration2.yml
-|4,39,26,9,1699920792,"~/mykubernetes/toleration2.yml"
--'  26  9  ~/mykubernetes/toleration2.yml
-|4,39,26,9,1699920792,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920623,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920623,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920623,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920623,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920623,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920623,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920623,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920623,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920623,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920623,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920623,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920623,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920623,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920623,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920623,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920623,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920378,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920378,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920378,"~/mykubernetes/toleration2.yml"
--'  28  2  ~/mykubernetes/toleration2.yml
-|4,39,28,2,1699920378,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  1  0  ~/mykubernetes/toleration2.yml
-|4,39,1,0,1699920014,"~/mykubernetes/toleration2.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
--'  15  17  ~/mykubernetes/toleration1.yml
-|4,39,15,17,1699918916,"~/mykubernetes/toleration1.yml"
+-'  19  2  ~/mykubernetes/volumes1.yml
+|4,39,19,2,1700270561,"~/mykubernetes/volumes1.yml"
+-'  1  0  ~/mykubernetes/voumes1.yml
+|4,39,1,0,1700270512,"~/mykubernetes/voumes1.yml"
+-'  1  0  ~/mykubernetes/voumes1.yml
+|4,39,1,0,1700270512,"~/mykubernetes/voumes1.yml"
+-'  1  0  ~/mykubernetes/volume1.yml
+|4,39,1,0,1700270497,"~/mykubernetes/volume1.yml"
+-'  1  0  ~/mykubernetes/volume1.yml
+|4,39,1,0,1700270497,"~/mykubernetes/volume1.yml"
+-'  1  0  ~/mykubernetes/volume1.yml
+|4,39,1,0,1700270497,"~/mykubernetes/volume1.yml"
+-'  1  0  ~/mykubernetes/volume1.yml
+|4,39,1,0,1700270497,"~/mykubernetes/volume1.yml"
+-'  1  0  ~/mykubernetes/voulme1.ml
+|4,39,1,0,1700270487,"~/mykubernetes/voulme1.ml"
+-'  1  0  ~/mykubernetes/voulme1.ml
+|4,39,1,0,1700270487,"~/mykubernetes/voulme1.ml"
+-'  1  0  ~/mykubernetes/voulme1.ml
+|4,39,1,0,1700270487,"~/mykubernetes/voulme1.ml"
+-'  1  0  ~/mykubernetes/voulme1.ml
+|4,39,1,0,1700270487,"~/mykubernetes/voulme1.ml"
+-'  1  0  ~/mykubernetes/voulme1.ml
+|4,39,1,0,1700270487,"~/mykubernetes/voulme1.ml"
+-'  1  0  ~/mykubernetes/voulme1.ml
+|4,39,1,0,1700270487,"~/mykubernetes/voulme1.ml"
+-'  1  0  ~/mykubernetes/voulme1.ml
+|4,39,1,0,1700270487,"~/mykubernetes/voulme1.ml"
+-'  1  0  ~/mykubernetes/voulme1.ml
+|4,39,1,0,1700270487,"~/mykubernetes/voulme1.ml"
+-'  19  2  ~/mykubernetes/volumes1.yml
+|4,39,19,2,1700184658,"~/mykubernetes/volumes1.yml"
+-'  19  2  ~/mykubernetes/volumes1.yml
+|4,39,19,2,1700184658,"~/mykubernetes/volumes1.yml"
+-'  19  2  ~/mykubernetes/volumes1.yml
+|4,39,19,2,1700184658,"~/mykubernetes/volumes1.yml"
+-'  19  2  ~/mykubernetes/volumes1.yml
+|4,39,19,2,1700184658,"~/mykubernetes/volumes1.yml"
+-'  19  2  ~/mykubernetes/volumes1.yml
+|4,39,19,2,1700184658,"~/mykubernetes/volumes1.yml"
+-'  19  2  ~/mykubernetes/volumes1.yml
+|4,39,19,2,1700184658,"~/mykubernetes/volumes1.yml"
+-'  19  2  ~/mykubernetes/volumes1.yml
+|4,39,19,2,1700184658,"~/mykubernetes/volumes1.yml"
+-'  19  2  ~/mykubernetes/volumes1.yml
+|4,39,19,2,1700184658,"~/mykubernetes/volumes1.yml"
+-'  17  20  ~/mykubernetes/volumes1.yml
+|4,39,17,20,1700184616,"~/mykubernetes/volumes1.yml"
+-'  17  20  ~/mykubernetes/volumes1.yml
+|4,39,17,20,1700184616,"~/mykubernetes/volumes1.yml"
+-'  17  20  ~/mykubernetes/volumes1.yml
+|4,39,17,20,1700184616,"~/mykubernetes/volumes1.yml"
+-'  17  20  ~/mykubernetes/volumes1.yml
+|4,39,17,20,1700184616,"~/mykubernetes/volumes1.yml"
+-'  17  20  ~/mykubernetes/volumes1.yml
+|4,39,17,20,1700184616,"~/mykubernetes/volumes1.yml"
+-'  17  20  ~/mykubernetes/volumes1.yml
+|4,39,17,20,1700184616,"~/mykubernetes/volumes1.yml"
+-'  17  20  ~/mykubernetes/volumes1.yml
+|4,39,17,20,1700184616,"~/mykubernetes/volumes1.yml"
+-'  17  20  ~/mykubernetes/volumes1.yml
+|4,39,17,20,1700184616,"~/mykubernetes/volumes1.yml"
+-'  17  20  ~/mykubernetes/volumes1.yml
+|4,39,17,20,1700184616,"~/mykubernetes/volumes1.yml"
+-'  17  20  ~/mykubernetes/volumes1.yml
+|4,39,17,20,1700184510,"~/mykubernetes/volumes1.yml"
+-'  17  20  ~/mykubernetes/volumes1.yml
+|4,39,17,20,1700184510,"~/mykubernetes/volumes1.yml"
+-'  17  20  ~/mykubernetes/volumes1.yml
+|4,39,17,20,1700184510,"~/mykubernetes/volumes1.yml"
+-'  17  20  ~/mykubernetes/volumes1.yml
+|4,39,17,20,1700184510,"~/mykubernetes/volumes1.yml"
+-'  17  20  ~/mykubernetes/volumes1.yml
+|4,39,17,20,1700184510,"~/mykubernetes/volumes1.yml"
+-'  17  20  ~/mykubernetes/volumes1.yml
+|4,39,17,20,1700184510,"~/mykubernetes/volumes1.yml"
+-'  17  20  ~/mykubernetes/volumes1.yml
+|4,39,17,20,1700184510,"~/mykubernetes/volumes1.yml"
+-'  17  20  ~/mykubernetes/volumes1.yml
+|4,39,17,20,1700184510,"~/mykubernetes/volumes1.yml"
+-'  1  0  ~/mykubernetes/volumes1.yml
+|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
+-'  1  0  ~/mykubernetes/volumes1.yml
+|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
+-'  1  0  ~/mykubernetes/volumes1.yml
+|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
+-'  1  0  ~/mykubernetes/volumes1.yml
+|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
+-'  1  0  ~/mykubernetes/volumes1.yml
+|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
+-'  1  0  ~/mykubernetes/volumes1.yml
+|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
+-'  1  0  ~/mykubernetes/volumes1.yml
+|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
+-'  1  0  ~/mykubernetes/volumes1.yml
+|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
+-'  1  0  ~/mykubernetes/volumes1.yml
+|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
+-'  1  0  ~/mykubernetes/volumes1.yml
+|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
+-'  1  0  ~/mykubernetes/volumes1.yml
+|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
+-'  1  0  ~/mykubernetes/volumes1.yml
+|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
+-'  1  0  ~/mykubernetes/volumes1.yml
+|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
+-'  1  0  ~/mykubernetes/volumes1.yml
+|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
+-'  1  0  ~/mykubernetes/volumes1.yml
+|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
+-'  1  0  ~/mykubernetes/volumes1.yml
+|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
+-'  1  0  ~/mykubernetes/volumes1.yml
+|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  10  14  ~/mykubernetes/green-deployment-carnery.yml
+|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
 
 # History of marks within files (newest to oldest):
 
+> ~/mykubernetes/volumes1.yml
+	*	1700270559	0
+	"	19	2
+	^	19	3
+	.	7	14
+	+	19	2
+	+	8	14
+	+	18	0
+	+	8	5
+	+	15	10
+	+	17	19
+	+	5	18
+	+	7	14
+
+> ~/mykubernetes/voumes1.yml
+	*	1700270511	0
+	"	1	0
+
+> ~/mykubernetes/volume1.yml
+	*	1700270496	0
+	"	1	0
+
+> ~/mykubernetes/voulme1.ml
+	*	1700270486	0
+	"	1	0
+
+> ~/mykubernetes/green-deployment-carnery.yml
+	*	1700181675	0
+	"	10	14
+	^	10	15
+	.	10	14
+	+	10	14
+
+> /usr/share/vim/vim82/doc/help.txt
+	*	1700181647	0
+	"	1	0
+
+> ~/mykubernetes/blue-deplyment-carnery.yml
+	*	1700180971	0
+	"	10	14
+	^	10	15
+	.	10	14
+	+	10	14
+
+> ~/mykubernetes/blue-deployment.yml
+	*	1700096160	0
+	"	5	16
+	^	5	17
+	.	5	17
+	+	5	17
+
+> ~/mykubernetes/green-deployment.yml
+	*	1700096140	0
+	"	22	38
+	^	22	39
+	.	22	38
+	+	5	18
+	+	22	38
+
+> ~/mykubernetes/deployment2_loadBalancing.yml
+	*	1700093724	0
+	"	12	19
+	^	12	20
+	.	12	19
+	+	11	13
+	+	12	19
+
+> ~/mykubernetes/deployment1_loadBalancing.yml
+	*	1700090704	0
+	"	26	14
+	^	26	15
+	.	10	14
+	+	22	38
+	+	10	14
+
+> ~/mykubernetes/deployment1.yml
+	*	1700009395	0
+	"	9	5
+	^	10	15
+	.	10	14
+	+	3	16
+	+	5	28
+	+	9	6
+	+	12	19
+	+	13	27
+	+	14	13
+	+	19	13
+	+	26	2
+	+	10	14
+
+> ~/helm/mytomcat/values.yaml
+	*	1700005896	0
+	"	41	11
+	^	41	12
+	.	41	11
+	+	40	19
+	+	8	18
+	+	11	12
+	+	41	11
+
 > ~/helm/mynginx/values.yaml
-	*	1699927718	0
-	"	43	15
-	^	43	16
-	.	43	15
+	*	1700004259	0
+	"	40	19
+	^	40	20
+	.	40	19
 	+	43	15
+	+	40	19
 
 > ~/helm/mynginx/values.yml
 	*	1699927677	0
@@ -342,21 +443,6 @@
 	+	15	10
 	+	16	27
 	+	15	18
-
-> ~/mykubernetes/deployment1.yml
-	*	1699915303	0
-	"	9	5
-	^	10	15
-	.	10	14
-	+	3	16
-	+	5	28
-	+	9	6
-	+	12	19
-	+	13	27
-	+	14	13
-	+	19	13
-	+	26	2
-	+	10	14
 
 > ~/mykubernetes/pod-defination1.yml
 	*	1699914631	0

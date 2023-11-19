@@ -1,0 +1,28 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+      name: nginx-deployment
+      labels:
+          type: proxy
+          author: prasad
+spec: 
+    replicas: 2
+    strategy:
+      type: Recreate
+    selector: 
+      matchLabels: 
+                type: proxy
+    template:
+        metadata:
+              name: nginx_pod
+              labels:
+                    type: proxy
+        spec:
+            containers:
+                    - name: mynginx
+                      image: nginx:1.24
+                      ports:
+                          - containerPort: 80
+                            hostPort: 8888
+...                              
