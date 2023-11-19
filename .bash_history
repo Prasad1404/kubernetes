@@ -1,10 +1,3 @@
-kubectl taint nodes gke-cluster-1-default-pool-4fd10705-bm1f slave1=prasad1:noSchedule
-kubectl taint nodes gke-cluster-1-default-pool-4fd10705-bm1f slave1=prasad1:NoSchedule
-ls
-git remote add origin https://github.com/Prasad1404/kubernetes.git
-gcloud container clusters get-credentials cluster-1 --zone us-central1-c --project galvanic-crow-404311
-git remote add origin https://github.com/Prasad1404/kubernetes.git
-git init
 git remote add origin https://github.com/Prasad1404/kubernetes.git
 git branch -M main
 git push -u origin main
@@ -502,3 +495,13 @@ git push
 cd ..
 git push
 git add
+git add .
+git commit -m "19-11-2023"
+git push
+gcloud container clusters get-credentials cluster-1 --zone us-central1-c --project galvanic-crow-404311
+kubectl get nodes
+cd  mykubernetes 
+ls
+ls -l
+cd ..
+cd add .

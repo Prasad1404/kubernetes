@@ -20,3 +20,5 @@
 2023-11-19 03:25:08.027 [info] [127.0.0.1][d75eaad7][ManagementConnection] New connection established.
 2023-11-19 03:25:08.216 [info] [127.0.0.1][9e1211ba][ExtensionHostConnection] New connection established.
 2023-11-19 03:25:08.232 [info] [127.0.0.1][9e1211ba][ExtensionHostConnection] <1565> Launched Extension Host Process.
+2023-11-19 03:53:37.526 [info] [127.0.0.1][9e1211ba][ExtensionHostConnection] The client has reconnected.
+2023-11-19 03:53:37.727 [info] [127.0.0.1][d75eaad7][ManagementConnection] The client has reconnected.
