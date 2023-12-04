@@ -1,0 +1,15 @@
+2023-11-21 03:01:08.568 [info] Extension host with pid 1282 started
+2023-11-21 03:01:08.680 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-21 03:01:08.821 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-21 03:01:08.903 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-21 03:01:08.903 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-21 03:01:09.146 [info] Eager extensions activated
+2023-11-21 03:01:09.146 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2023-11-21 03:01:09.146 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2023-11-21 03:01:09.147 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2023-11-21 03:01:09.147 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-21 03:01:09.147 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-21 03:01:10.708 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-11-21 03:01:10.709 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-11-21 03:01:57.576 [info] Extension host terminating: received terminate message from renderer
+2023-11-21 03:01:57.599 [info] Extension host with pid 1282 exiting with code 0

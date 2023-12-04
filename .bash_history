@@ -1,160 +1,3 @@
-git remote add origin https://github.com/Prasad1404/kubernetes.git
-git branch -M main
-git push -u origin main
-git branch -M main
-git push -u origin main
-ls
-git add mykubernetes
-git push -u origin main
-git add .
-git commit
-git commit -m "kubenetes files"
-ls
-cd mykuberenetes
-cd mykubernetes
-git add .
-git commit -m "kuberneter file uplodaed"
-git config --global user.email prasadsahoo140484@gmail.com
-git commit -m "kuberneter file uplodaed"
-ls
-git config --global user.email prasadkumar.sahoo@gmail.com
-git commit -m "kuberneter file uplodaed" 
-omit --global
-git config --global user.email prasadkumar.sahoo@gmail.com
-git config --global user.name "prasad"
-git add .
-git commit -m "kuberneter file uplodaed" 
-git push -u origin main
-git remote add origin https://github.com/Prasad1404/kubernetes.git
-git push -u origin main
-ls
-git commit .
-git push -u origin main
-https://github.com/Prasad1404/kubernetes.git
-echo "# kubernetes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Prasad1404/kubernetes.git
-git push -u origin main
-echo "# kubernetes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Prasad1404/kubernetes.git
-git push -u origin main
-gcloud container clusters get-credentials cluster-1 --zone us-central1-c --project galvanic-crow-404311
-gcloud config set project galvanic-crow-404311
-echo "# kubernetes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Prasad1404/kubernetes.git
-git push -u origin main
-git remote add origin https://github.com/Prasad1404/kubernetes.git
-git branch -M main
-git push -u origin main
-git remote add origin https://github.com/Prasad1404/kubernetes.git
-git branch -M main
-git push -u origin main
-echo "# kubernetes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Prasad1404/kubernetes.git
-git push -u origin main
-git config --global user.name Prasad1404
-git config --global user.email prasadkumar.sahoo@gmail.com
-git config -l
-echo "# kubernetes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Prasad1404/kubernetes.git
-git push -u origin main
-echo "# mykubernetes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/prasadsahoo140484/mykubernetes.git
-git push -u origin main
-exit
-echo "# mykubernetes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/prasadsahoo140484/mykubernetes.git
-git push -u origin main
-clear
-exit
-echo "# mykubernetes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/prasadsahoo140484/mykubernetes.git
-git push -u origin main
-git config --global credential.helper store
-git remote add origin https://github.com/prasadsahoo140484/mykubernetes.git
-git branch -M main
-git push -u origin main
-echo "# kubernetes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Prasad1404/kubernetes.git
-git push -u origin main
-echo "# kubernetes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
-git push -u origin main
-echo "# kubernetes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
-git push -u origin main
-clear
-echo "# kubernetes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Prasad1404/kubernetes.git
-git push -u origin main
-echo "# kubernetes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
-git push -u origin main
-ls
-cd mykubernetes
-echo "# kubernetes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Prasad1404/kubernetes.git
-git push -u origin main
-git remote add origin https://github.com/Prasad1404/kubernetes.git
-git branch -M main
-git push -u origin main
-git remote add origin https://github.com/Prasad1404/kubernetes.git
-git push
 git push -u origin main
 clear
 echo "# kubernetes" >> README.md
@@ -505,3 +348,155 @@ ls
 ls -l
 cd ..
 cd add .
+git add .
+git commit -m "20-11-2023"
+git push
+cd mykubernetes
+vi pv.yml
+vi pvc.yml
+kubectl apply -f pv.yml
+vi pv.yml
+kubectl apply -f pv.yml
+vi pv.yml
+kubectl apply -f pv.yml
+vi pvc.yml
+kubectl apply -f pvc.yml
+vi pvc.yml
+kubectl apply -f pvc.yml
+vi pvc.yml
+kubectl apply -f pvc.yml
+vi pvc.yml
+kubectl apply -f pvc.yml
+vi pvc.yml
+kubectl apply -f pvc.yml
+kuberctl get pv
+kubectl get pv
+kubectl get pvc
+ls -l
+vi volume2.yml
+kubectl apply -f volume2.yml
+vi volume2.yml
+kubectl apply -f volume2.yml
+vi volume2.yml
+kubectl apply -f volume2.yml
+vi volume2.yml
+kubectl apply -f volume2.yml
+vi volume2.yml
+kubectl apply -f volume2.yml
+kubectl get pods
+kubectl get all
+gcloud container clusters get-credentials cluster-1 --zone us-central1-c --project galvanic-crow-404311
+gcloud config set project galvanic-crow-404311
+cd mykubernetes
+ls -l
+kubectl apply -f pv.yml
+kubectl apply -f pvc.yml
+kubectl apply -f volume2.yml
+kubectl get pods
+clear
+vi pv.yml
+kubectl apply -f pv.yml
+kubectl get pods
+kubectl apply -f pv.yml
+kubectl delete -f pv.yml
+kubectl delete -f volume2.yml
+kubectl delete -f pvc.yml
+kubectl get pods
+kubectl apply -f volume2.yml
+kubectl get pods
+kubectl delete -f volume2.yml
+vi volume2.yml
+vi pv.yml
+vi pvc.yml
+kubectl apply -f pv.ym
+kubectl apply -f pv.yml
+kubectl apply -f pvc.yml
+kubectl apply -f volume2.yml 
+kubectl get  pods
+kubectl get all
+kubectl get persistentVolume
+kubectl get persistentVolumeClaim
+kubectl get  pods
+kubectl delete -f voume2.yml
+kubectl delete -f volume2.yml
+kubectl delete -f pvc.yml
+kubectl delete -f pv.yml
+clear
+vi volume2.yml
+gcloud container clusters get-credentials cluster-1 --zone us-central1-c --project galvanic-crow-404311
+vim Autoscalling.yml
+pwd
+ls
+cat Autoscalling1.yml 
+kubectl apply -f Autoscalling1.yml 
+kubectl get all
+kubectl get deployment
+kubectl delete -f Autoscalling1.yml 
+vim Autoscalling1.yml 
+kubectl apply -f Autoscalling1.yml 
+kubectl get deployment
+kubectl autoscale deployment php-apache --cpu-percent=50 --min=1 --max=10
+kubectl get hpa
+kubectl get hpa --watch
+kubectl delete hpa php-apache
+kubectl delete pods lg
+kubectl delete -f Autoscalling1.yml 
+kubectl get pods
+kubectl run  -i --tty  lg --rm --image busybox  --restart=Never -- /bin/sh         -c "while sleep 0.01;do wget -q -O- http://php-apache;done"
+helm repo add prometheus-community https://prometheus-community.github.io/helm-charts
+helm repo list
+helm repo update
+helm install [RELEASE_NAME] prometheus-community/kube-prometheus-stack
+helm install prometheus  prometheus-community/kube-prometheus-stack
+kubectl get all | less
+kubectl patch svc prometheus-grafana -p '{"spec":{"type":"LoadBalancer"}}'
+kubectl get all | less
+kubectl run --image nginx webserver
+kubectl exec -it webserver -- bash
+kubectl get pods
+kubectl exec -it webserver -- bash
+kubectl get pods
+gcloud container clusters get-credentials cluster-1 --zone us-central1-c --project galvanic-crow-404311
+gcloud config set project galvanic-crow-404311
+ls -l
+vi Autoscaling.yml
+rm Autoscaling.yml
+ls -l
+vi Autoscalling.yml
+rm Autoscalling.yml
+ls -l
+cat Autoscalling1.yml
+cd mykubernetes
+clear
+vi autoscaling.yml
+kubectl spply -f autoscaling.yml
+kubectl apply -f autoscaling.yml
+vi autoscaling.yml
+kubectl apply -f autoscaling.yml
+vi autoscaling.yml
+kubectl apply -f autoscaling.yml
+vi autoscaling.yml
+kubectl apply -f autoscaling.yml
+vi autoscaling.yml
+kubectl apply -f autoscaling.yml
+vi autoscaling.yml
+kubectl apply -f autoscaling.yml
+kubectl get all
+kubectl get deployment
+kubectl autoscale deployment php-apache --cpu-percent =50 --min=1 --max=10
+kubectl autoscale deployment php-apache --cpu-percent=50 --min=1 --max=10
+kubectl get hpa
+gcloud config set project galvanic-crow-404311
+gcloud container clusters get-credentials cluster-1 --zone us-central1-c --project galvanic-crow-404311
+kubectl run -I -tty lg  --rm --image busybox --restart=Never -- /bin/sh -c "while sleep 0.01; do wget  =q =o= http://php-apache;done"
+kubectl run -i -tty lg  --rm --image busybox --restart=Never -- /bin/sh -c "while sleep 0.01; do wget  =q =o= http://php-apache;done"
+[200~gcloud container clusters get-credentials cluster-1 --zone us-central1-c --project galvanic-crow-404311~
+gcloud container clusters get-credentials cluster-1 --zone us-central1-c --project galvanic-crow-404311
+vim StaatefulSet2.yml
+kubectl apply -f StaatefulSet2.yml 
+kubectl get all
+kubectl exec -it nginx-statefulset-0 -- bash
+kubectl get all
+kubectl exec -it nginx-statefulset-0 -- bash
+git status
+ls 

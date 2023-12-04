@@ -12,13 +12,15 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1700270561,,"wq"
+|2,0,1700887025,,"wq"
 :q
-|2,0,1700270512,,"q"
+|2,0,1700608267,,"q"
+:set number
+|2,0,1700436985,,"set number"
+:ser nu
+|2,0,1700436519,,"ser nu"
 :q!
 |2,0,1700181655,,"q!"
-:set number
-|2,0,1699755334,,"set number"
 :su number
 |2,0,1699755320,,"su number"
 :set nu
@@ -76,230 +78,328 @@
 |3,1,36,0,1,0,1699464924,"deployment"
 
 # File marks:
-'0  19  2  ~/mykubernetes/volumes1.yml
-|4,48,19,2,1700270561,"~/mykubernetes/volumes1.yml"
-'1  1  0  ~/mykubernetes/voumes1.yml
-|4,49,1,0,1700270512,"~/mykubernetes/voumes1.yml"
-'2  1  0  ~/mykubernetes/volume1.yml
-|4,50,1,0,1700270497,"~/mykubernetes/volume1.yml"
-'3  1  0  ~/mykubernetes/voulme1.ml
-|4,51,1,0,1700270487,"~/mykubernetes/voulme1.ml"
-'4  19  2  ~/mykubernetes/volumes1.yml
-|4,52,19,2,1700184658,"~/mykubernetes/volumes1.yml"
-'5  17  20  ~/mykubernetes/volumes1.yml
-|4,53,17,20,1700184510,"~/mykubernetes/volumes1.yml"
-'6  17  20  ~/mykubernetes/volumes1.yml
-|4,54,17,20,1700184510,"~/mykubernetes/volumes1.yml"
-'7  17  20  ~/mykubernetes/volumes1.yml
-|4,55,17,20,1700184510,"~/mykubernetes/volumes1.yml"
-'8  17  20  ~/mykubernetes/volumes1.yml
-|4,56,17,20,1700184510,"~/mykubernetes/volumes1.yml"
-'9  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,57,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+'0  1  0  ~/StaatefulSet2.yml
+|4,48,1,0,1700887025,"~/StaatefulSet2.yml"
+'1  8  14  ~/mykubernetes/autoscaling.yml
+|4,49,8,14,1700610014,"~/mykubernetes/autoscaling.yml"
+'2  22  30  ~/mykubernetes/autoscaling.yml
+|4,50,22,30,1700609870,"~/mykubernetes/autoscaling.yml"
+'3  22  30  ~/mykubernetes/autoscaling.yml
+|4,51,22,30,1700609870,"~/mykubernetes/autoscaling.yml"
+'4  13  20  ~/mykubernetes/autoscaling.yml
+|4,52,13,20,1700609733,"~/mykubernetes/autoscaling.yml"
+'5  13  20  ~/mykubernetes/autoscaling.yml
+|4,53,13,20,1700609733,"~/mykubernetes/autoscaling.yml"
+'6  13  20  ~/mykubernetes/autoscaling.yml
+|4,54,13,20,1700609733,"~/mykubernetes/autoscaling.yml"
+'7  13  20  ~/mykubernetes/autoscaling.yml
+|4,55,13,20,1700609733,"~/mykubernetes/autoscaling.yml"
+'8  19  47  ~/mykubernetes/autoscaling.yml
+|4,56,19,47,1700609638,"~/mykubernetes/autoscaling.yml"
+'9  19  47  ~/mykubernetes/autoscaling.yml
+|4,57,19,47,1700609638,"~/mykubernetes/autoscaling.yml"
 
 # Jumplist (newest first):
--'  19  2  ~/mykubernetes/volumes1.yml
-|4,39,19,2,1700270561,"~/mykubernetes/volumes1.yml"
--'  1  0  ~/mykubernetes/voumes1.yml
-|4,39,1,0,1700270512,"~/mykubernetes/voumes1.yml"
--'  1  0  ~/mykubernetes/voumes1.yml
-|4,39,1,0,1700270512,"~/mykubernetes/voumes1.yml"
--'  1  0  ~/mykubernetes/volume1.yml
-|4,39,1,0,1700270497,"~/mykubernetes/volume1.yml"
--'  1  0  ~/mykubernetes/volume1.yml
-|4,39,1,0,1700270497,"~/mykubernetes/volume1.yml"
--'  1  0  ~/mykubernetes/volume1.yml
-|4,39,1,0,1700270497,"~/mykubernetes/volume1.yml"
--'  1  0  ~/mykubernetes/volume1.yml
-|4,39,1,0,1700270497,"~/mykubernetes/volume1.yml"
--'  1  0  ~/mykubernetes/voulme1.ml
-|4,39,1,0,1700270487,"~/mykubernetes/voulme1.ml"
--'  1  0  ~/mykubernetes/voulme1.ml
-|4,39,1,0,1700270487,"~/mykubernetes/voulme1.ml"
--'  1  0  ~/mykubernetes/voulme1.ml
-|4,39,1,0,1700270487,"~/mykubernetes/voulme1.ml"
--'  1  0  ~/mykubernetes/voulme1.ml
-|4,39,1,0,1700270487,"~/mykubernetes/voulme1.ml"
--'  1  0  ~/mykubernetes/voulme1.ml
-|4,39,1,0,1700270487,"~/mykubernetes/voulme1.ml"
--'  1  0  ~/mykubernetes/voulme1.ml
-|4,39,1,0,1700270487,"~/mykubernetes/voulme1.ml"
--'  1  0  ~/mykubernetes/voulme1.ml
-|4,39,1,0,1700270487,"~/mykubernetes/voulme1.ml"
--'  1  0  ~/mykubernetes/voulme1.ml
-|4,39,1,0,1700270487,"~/mykubernetes/voulme1.ml"
--'  19  2  ~/mykubernetes/volumes1.yml
-|4,39,19,2,1700184658,"~/mykubernetes/volumes1.yml"
--'  19  2  ~/mykubernetes/volumes1.yml
-|4,39,19,2,1700184658,"~/mykubernetes/volumes1.yml"
--'  19  2  ~/mykubernetes/volumes1.yml
-|4,39,19,2,1700184658,"~/mykubernetes/volumes1.yml"
--'  19  2  ~/mykubernetes/volumes1.yml
-|4,39,19,2,1700184658,"~/mykubernetes/volumes1.yml"
--'  19  2  ~/mykubernetes/volumes1.yml
-|4,39,19,2,1700184658,"~/mykubernetes/volumes1.yml"
--'  19  2  ~/mykubernetes/volumes1.yml
-|4,39,19,2,1700184658,"~/mykubernetes/volumes1.yml"
--'  19  2  ~/mykubernetes/volumes1.yml
-|4,39,19,2,1700184658,"~/mykubernetes/volumes1.yml"
--'  19  2  ~/mykubernetes/volumes1.yml
-|4,39,19,2,1700184658,"~/mykubernetes/volumes1.yml"
--'  17  20  ~/mykubernetes/volumes1.yml
-|4,39,17,20,1700184616,"~/mykubernetes/volumes1.yml"
--'  17  20  ~/mykubernetes/volumes1.yml
-|4,39,17,20,1700184616,"~/mykubernetes/volumes1.yml"
--'  17  20  ~/mykubernetes/volumes1.yml
-|4,39,17,20,1700184616,"~/mykubernetes/volumes1.yml"
--'  17  20  ~/mykubernetes/volumes1.yml
-|4,39,17,20,1700184616,"~/mykubernetes/volumes1.yml"
--'  17  20  ~/mykubernetes/volumes1.yml
-|4,39,17,20,1700184616,"~/mykubernetes/volumes1.yml"
--'  17  20  ~/mykubernetes/volumes1.yml
-|4,39,17,20,1700184616,"~/mykubernetes/volumes1.yml"
--'  17  20  ~/mykubernetes/volumes1.yml
-|4,39,17,20,1700184616,"~/mykubernetes/volumes1.yml"
--'  17  20  ~/mykubernetes/volumes1.yml
-|4,39,17,20,1700184616,"~/mykubernetes/volumes1.yml"
--'  17  20  ~/mykubernetes/volumes1.yml
-|4,39,17,20,1700184616,"~/mykubernetes/volumes1.yml"
--'  17  20  ~/mykubernetes/volumes1.yml
-|4,39,17,20,1700184510,"~/mykubernetes/volumes1.yml"
--'  17  20  ~/mykubernetes/volumes1.yml
-|4,39,17,20,1700184510,"~/mykubernetes/volumes1.yml"
--'  17  20  ~/mykubernetes/volumes1.yml
-|4,39,17,20,1700184510,"~/mykubernetes/volumes1.yml"
--'  17  20  ~/mykubernetes/volumes1.yml
-|4,39,17,20,1700184510,"~/mykubernetes/volumes1.yml"
--'  17  20  ~/mykubernetes/volumes1.yml
-|4,39,17,20,1700184510,"~/mykubernetes/volumes1.yml"
--'  17  20  ~/mykubernetes/volumes1.yml
-|4,39,17,20,1700184510,"~/mykubernetes/volumes1.yml"
--'  17  20  ~/mykubernetes/volumes1.yml
-|4,39,17,20,1700184510,"~/mykubernetes/volumes1.yml"
--'  17  20  ~/mykubernetes/volumes1.yml
-|4,39,17,20,1700184510,"~/mykubernetes/volumes1.yml"
--'  1  0  ~/mykubernetes/volumes1.yml
-|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
--'  1  0  ~/mykubernetes/volumes1.yml
-|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
--'  1  0  ~/mykubernetes/volumes1.yml
-|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
--'  1  0  ~/mykubernetes/volumes1.yml
-|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
--'  1  0  ~/mykubernetes/volumes1.yml
-|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
--'  1  0  ~/mykubernetes/volumes1.yml
-|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
--'  1  0  ~/mykubernetes/volumes1.yml
-|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
--'  1  0  ~/mykubernetes/volumes1.yml
-|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
--'  1  0  ~/mykubernetes/volumes1.yml
-|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
--'  1  0  ~/mykubernetes/volumes1.yml
-|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
--'  1  0  ~/mykubernetes/volumes1.yml
-|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
--'  1  0  ~/mykubernetes/volumes1.yml
-|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
--'  1  0  ~/mykubernetes/volumes1.yml
-|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
--'  1  0  ~/mykubernetes/volumes1.yml
-|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
--'  1  0  ~/mykubernetes/volumes1.yml
-|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
--'  1  0  ~/mykubernetes/volumes1.yml
-|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
--'  1  0  ~/mykubernetes/volumes1.yml
-|4,39,1,0,1700184313,"~/mykubernetes/volumes1.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
--'  10  14  ~/mykubernetes/green-deployment-carnery.yml
-|4,39,10,14,1700181676,"~/mykubernetes/green-deployment-carnery.yml"
+-'  1  0  ~/StaatefulSet2.yml
+|4,39,1,0,1700887025,"~/StaatefulSet2.yml"
+-'  8  14  ~/mykubernetes/autoscaling.yml
+|4,39,8,14,1700610014,"~/mykubernetes/autoscaling.yml"
+-'  8  14  ~/mykubernetes/autoscaling.yml
+|4,39,8,14,1700610014,"~/mykubernetes/autoscaling.yml"
+-'  22  30  ~/mykubernetes/autoscaling.yml
+|4,39,22,30,1700609925,"~/mykubernetes/autoscaling.yml"
+-'  22  30  ~/mykubernetes/autoscaling.yml
+|4,39,22,30,1700609925,"~/mykubernetes/autoscaling.yml"
+-'  22  30  ~/mykubernetes/autoscaling.yml
+|4,39,22,30,1700609870,"~/mykubernetes/autoscaling.yml"
+-'  22  30  ~/mykubernetes/autoscaling.yml
+|4,39,22,30,1700609870,"~/mykubernetes/autoscaling.yml"
+-'  13  20  ~/mykubernetes/autoscaling.yml
+|4,39,13,20,1700609799,"~/mykubernetes/autoscaling.yml"
+-'  13  20  ~/mykubernetes/autoscaling.yml
+|4,39,13,20,1700609799,"~/mykubernetes/autoscaling.yml"
+-'  13  20  ~/mykubernetes/autoscaling.yml
+|4,39,13,20,1700609799,"~/mykubernetes/autoscaling.yml"
+-'  13  20  ~/mykubernetes/autoscaling.yml
+|4,39,13,20,1700609799,"~/mykubernetes/autoscaling.yml"
+-'  13  20  ~/mykubernetes/autoscaling.yml
+|4,39,13,20,1700609733,"~/mykubernetes/autoscaling.yml"
+-'  13  20  ~/mykubernetes/autoscaling.yml
+|4,39,13,20,1700609733,"~/mykubernetes/autoscaling.yml"
+-'  19  47  ~/mykubernetes/autoscaling.yml
+|4,39,19,47,1700609702,"~/mykubernetes/autoscaling.yml"
+-'  19  47  ~/mykubernetes/autoscaling.yml
+|4,39,19,47,1700609702,"~/mykubernetes/autoscaling.yml"
+-'  19  47  ~/mykubernetes/autoscaling.yml
+|4,39,19,47,1700609702,"~/mykubernetes/autoscaling.yml"
+-'  19  47  ~/mykubernetes/autoscaling.yml
+|4,39,19,47,1700609702,"~/mykubernetes/autoscaling.yml"
+-'  19  47  ~/mykubernetes/autoscaling.yml
+|4,39,19,47,1700609702,"~/mykubernetes/autoscaling.yml"
+-'  19  47  ~/mykubernetes/autoscaling.yml
+|4,39,19,47,1700609702,"~/mykubernetes/autoscaling.yml"
+-'  19  47  ~/mykubernetes/autoscaling.yml
+|4,39,19,47,1700609638,"~/mykubernetes/autoscaling.yml"
+-'  19  47  ~/mykubernetes/autoscaling.yml
+|4,39,19,47,1700609638,"~/mykubernetes/autoscaling.yml"
+-'  26  3  ~/mykubernetes/autoscaling.yml
+|4,39,26,3,1700609615,"~/mykubernetes/autoscaling.yml"
+-'  26  3  ~/mykubernetes/autoscaling.yml
+|4,39,26,3,1700609615,"~/mykubernetes/autoscaling.yml"
+-'  26  3  ~/mykubernetes/autoscaling.yml
+|4,39,26,3,1700609615,"~/mykubernetes/autoscaling.yml"
+-'  26  3  ~/mykubernetes/autoscaling.yml
+|4,39,26,3,1700609615,"~/mykubernetes/autoscaling.yml"
+-'  26  3  ~/mykubernetes/autoscaling.yml
+|4,39,26,3,1700609615,"~/mykubernetes/autoscaling.yml"
+-'  26  3  ~/mykubernetes/autoscaling.yml
+|4,39,26,3,1700609615,"~/mykubernetes/autoscaling.yml"
+-'  26  3  ~/mykubernetes/autoscaling.yml
+|4,39,26,3,1700609615,"~/mykubernetes/autoscaling.yml"
+-'  26  3  ~/mykubernetes/autoscaling.yml
+|4,39,26,3,1700609615,"~/mykubernetes/autoscaling.yml"
+-'  26  3  ~/mykubernetes/autoscaling.yml
+|4,39,26,3,1700609578,"~/mykubernetes/autoscaling.yml"
+-'  26  3  ~/mykubernetes/autoscaling.yml
+|4,39,26,3,1700609578,"~/mykubernetes/autoscaling.yml"
+-'  37  2  ~/mykubernetes/autoscaling.yml
+|4,39,37,2,1700609563,"~/mykubernetes/autoscaling.yml"
+-'  37  2  ~/mykubernetes/autoscaling.yml
+|4,39,37,2,1700609563,"~/mykubernetes/autoscaling.yml"
+-'  37  2  ~/mykubernetes/autoscaling.yml
+|4,39,37,2,1700609563,"~/mykubernetes/autoscaling.yml"
+-'  37  2  ~/mykubernetes/autoscaling.yml
+|4,39,37,2,1700609563,"~/mykubernetes/autoscaling.yml"
+-'  37  2  ~/mykubernetes/autoscaling.yml
+|4,39,37,2,1700609563,"~/mykubernetes/autoscaling.yml"
+-'  37  2  ~/mykubernetes/autoscaling.yml
+|4,39,37,2,1700609563,"~/mykubernetes/autoscaling.yml"
+-'  37  2  ~/mykubernetes/autoscaling.yml
+|4,39,37,2,1700609563,"~/mykubernetes/autoscaling.yml"
+-'  37  2  ~/mykubernetes/autoscaling.yml
+|4,39,37,2,1700609563,"~/mykubernetes/autoscaling.yml"
+-'  37  2  ~/mykubernetes/autoscaling.yml
+|4,39,37,2,1700609563,"~/mykubernetes/autoscaling.yml"
+-'  37  2  ~/mykubernetes/autoscaling.yml
+|4,39,37,2,1700609563,"~/mykubernetes/autoscaling.yml"
+-'  37  2  ~/mykubernetes/autoscaling.yml
+|4,39,37,2,1700609403,"~/mykubernetes/autoscaling.yml"
+-'  37  2  ~/mykubernetes/autoscaling.yml
+|4,39,37,2,1700609403,"~/mykubernetes/autoscaling.yml"
+-'  1  0  ~/mykubernetes/autoscaling.yml
+|4,39,1,0,1700608469,"~/mykubernetes/autoscaling.yml"
+-'  1  0  ~/mykubernetes/autoscaling.yml
+|4,39,1,0,1700608469,"~/mykubernetes/autoscaling.yml"
+-'  1  0  ~/mykubernetes/autoscaling.yml
+|4,39,1,0,1700608469,"~/mykubernetes/autoscaling.yml"
+-'  1  0  ~/mykubernetes/autoscaling.yml
+|4,39,1,0,1700608469,"~/mykubernetes/autoscaling.yml"
+-'  1  0  ~/mykubernetes/autoscaling.yml
+|4,39,1,0,1700608469,"~/mykubernetes/autoscaling.yml"
+-'  1  0  ~/mykubernetes/autoscaling.yml
+|4,39,1,0,1700608469,"~/mykubernetes/autoscaling.yml"
+-'  1  0  ~/mykubernetes/autoscaling.yml
+|4,39,1,0,1700608469,"~/mykubernetes/autoscaling.yml"
+-'  1  0  ~/mykubernetes/autoscaling.yml
+|4,39,1,0,1700608469,"~/mykubernetes/autoscaling.yml"
+-'  1  0  ~/mykubernetes/autoscaling.yml
+|4,39,1,0,1700608469,"~/mykubernetes/autoscaling.yml"
+-'  1  0  ~/mykubernetes/autoscaling.yml
+|4,39,1,0,1700608469,"~/mykubernetes/autoscaling.yml"
+-'  1  0  ~/mykubernetes/autoscaling.yml
+|4,39,1,0,1700608469,"~/mykubernetes/autoscaling.yml"
+-'  1  0  ~/mykubernetes/autoscaling.yml
+|4,39,1,0,1700608469,"~/mykubernetes/autoscaling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
+-'  1  0  ~/Autoscalling.yml
+|4,39,1,0,1700608267,"~/Autoscalling.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/StaatefulSet2.yml
+	*	1700887025	0
+	"	1	0
+	^	1	0
+	.	60	0
+	+	60	0
+
+> ~/mykubernetes/autoscaling.yml
+	*	1700610013	0
+	"	8	14
+	^	8	15
+	.	8	13
+	+	1	3
+	+	20	0
+	+	5	20
+	+	6	5
+	+	10	13
+	+	14	13
+	+	19	46
+	+	23	40
+	+	22	48
+	+	25	3
+	+	28	9
+	+	32	5
+	+	35	13
+	+	37	3
+	+	26	3
+	+	19	38
+	+	13	21
+	+	20	23
+	+	21	31
+	+	23	31
+	+	8	13
+
+> ~/Autoscalling.yml
+	*	1700608266	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/Autoscaling.yml
+	*	1700608215	0
+	"	1	0
+
+> ~/Autoscalling1.yml
+	*	1700535882	0
+	"	18	14
+	^	18	15
+	.	5	14
+	+	5	14
+
+> ~/mykubernetes/volume2.yml
+	*	1700521113	0
+	"	17	16
+	^	17	17
+	.	17	11
+	+	6	8
+	+	7	7
+	+	8	5
+	+	20	0
+	+	5	22
+	+	7	20
+	+	10	35
+	+	15	12
+	+	19	2
+	+	5	18
+	+	6	5
+	+	7	9
+	+	16	32
+	+	17	11
+
+> ~/mykubernetes/pvc.yml
+	*	1700520805	0
+	"	11	27
+	^	8	27
+	.	8	27
+	+	3	9
+	+	5	5
+	+	9	14
+	+	12	2
+	+	11	26
+	+	9	12
+	+	10	17
+	+	9	10
+	+	8	27
+
+> ~/mykubernetes/pv.yml
+	*	1700520708	0
+	"	17	12
+	^	11	20
+	.	11	17
+	+	8	6
+	+	12	17
+	+	17	2
+	+	3	11
+	+	11	17
 
 > ~/mykubernetes/volumes1.yml
 	*	1700270559	0
